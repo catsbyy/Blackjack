@@ -1,0 +1,6 @@
+C:\Users\vandr\Desktop\Новая папка\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\vandr\Desktop\Новая папка\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\vandr\Desktop\Новая папка\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\vandr\Desktop\Новая папка\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+C:\Users\vandr\Desktop\Новая папка\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\vandr\Desktop\Новая папка\BlackJack\obj\Debug\BlackJack.pdb
