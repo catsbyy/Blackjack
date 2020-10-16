@@ -2,7 +2,7 @@
 
 > My first program added to GitHub (with difficulty).
 
-> This blackjack is not perfect, but it can be played.
+> This blackjack is not perfect, but you can play it.
 1. Deal cards
 2. Ability to take more cards
 3. Demonstration of victory or defeat
